@@ -4,6 +4,9 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/Harols34/trabajofrontend)
+[![Demo GitHub Pages](https://img.shields.io/badge/Demo-GitHub%20Pages-2ea44f?style=flat&logo=githubpages)](https://harols34.github.io/trabajofrontend/)
+
+> 🌐 **Sitio web desplegado en vivo:** [https://harols34.github.io/trabajofrontend/](https://harols34.github.io/trabajofrontend/)
 
 Portal web de noticias tecnológicas desarrollado como proyecto académico de Front End. Implementa renderizado dinámico de contenidos, filtrado interactivo, persistencia en el navegador con `localStorage`, validación de formularios y un panel de administración local (CRUD).
 
